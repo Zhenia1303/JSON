@@ -1,0 +1,282 @@
+[
+  {
+    "question": "1. Na schemacie działania skanera numerem 1 oznaczono element, którego zadaniem jest",
+    "answerA": " A. zamiana sygnału analogowego na sygnał cyfrowy",
+    "answerB": " B. zamiana sygnału optycznego na sygnał elektryczny",
+    "answerC": " C. wzmacnianie sygnału optycznego",
+    "answerD": " D. wzmacnianie sygnału elektrycznego"
+  },
+  {
+    "question": "2. W systemie Windows XP na komputerze klienckim, plik \"hosts\" jest plikiem tekstowym, który służy do mapowania",
+    "answerA": " A. nazw hostów na adresy IP",
+    "answerB": " B. nazw hostów przez serwery DNS",
+    "answerC": " C. dysków twardych",
+    "answerD": " D. nazw hostów na adresy MAC"
+  },
+  {
+    "question": "3. Co pozwala utrzymać równomierny rozkład ciepła między procesorem a radiatorem?",
+    "answerA": " A. Pasta grafitowa",
+    "answerB": " B. Mieszanka termiczna",
+    "answerC": " C. Silikonowy spray",
+    "answerD": " D. Klej"
+  },
+  {
+    "question": "4. Który z adresów jest adresem hosta należącego do sieci 10.128.0.0/10?",
+    "answerA": " A. 10.160.255.255",
+    "answerB": " B. 10.127.255.255",
+    "answerC": " C. 10.191.255.255",
+    "answerD": " D. 10.192.255.255"
+  },
+  {
+    "question": "5. Na rysunku przedstawiono sieć lokalną opartą na okablowaniu kat. 6. Stacja robocza C nie może skomunikować się z siecią. Jaki problem warstwy fizycznej może powodować brak łączności?",
+    "answerA": " A. Zła długość kabla",
+    "answerB": " B. Nieodpowiedni kabel",
+    "answerC": " C. Nieprawidłowy adres IP",
+    "answerD": " D. Zły typ przełącznika"
+  },
+  {
+    "question": "6. W który rodzaj matrycy powinien być wyposażony monitor w modernizowanym zestawie komputerowym w przypadku konieczności zapewnienia wysokiej jakości obrazu oraz szerokich kątów widzenia w poziomie i pionie?",
+    "answerA": " A. IPS",
+    "answerB": " B. DLP",
+    "answerC": " C. CRT",
+    "answerD": " D. TN"
+  },
+  {
+    "question": "7. Który protokół wykorzystują komputery do powiadomienia rutera o chęci przyłączenia się lub odejścia z określonej grupy rozgłoszeniowej?",
+    "answerA": " A. TCP/IP",
+    "answerB": " B. UDP",
+    "answerC": " C. DHCP",
+    "answerD": " D. IGMP"
+  },
+  {
+    "question": "8. W ramce zamieszczono zawartość jednego z plików systemu operacyjnego MS Windows. Jest to plik",
+    "answerA": " A. wykonywalny, uruchamiający edytor rejestru systemu",
+    "answerB": " B. tekstowy, zawierający listę zainstalowanych systemów  operacyjnych",
+    "answerC": " C. wsadowy, służący do uruchamiania instalatora",
+    "answerD": " D. dziennika, zawierający informacje o zainstalowanych urządzeniach"
+  },
+  {
+    "question": "9. W systemie serwerowym Windows widoczny jest zakres adresów IPv4. Wskazana ikona znajdująca się przy jego nazwie oznacza, że",
+    "answerA": " A. pula adresów w tym zakresie jest wyczerpana na poziomie bliskim 100%.",
+    "answerB": " B. pula adresów w tym zakresie jest wyczerpana w 100%.",
+    "answerC": " C. zakres ten jest aktywny.",
+    "answerD": " D. zakres ten jest nieaktywny."
+  },
+  {
+    "question": "10. W systemie operacyjnym Ubuntu konto użytkownika student można usunąć za pomocą polecenia",
+    "answerA": " A. userdel student",
+    "answerB": " B. user net student /del",
+    "answerC": " C. del user student",
+    "answerD": " D. net user student /del"
+  },
+  {
+    "question": "11. W systemie Windows Serwer utworzenie ukrytego, udostępnionego katalogu wymaga dopisania na końcu nazwy katalogu symbolu",
+    "answerA": " A. &",
+    "answerB": " B. $",
+    "answerC": " C. @",
+    "answerD": " D. %"
+  },
+  {
+    "question": "12. Aby sygnały dwóch routerów w sieci WiFi standardu 802.11g nie zakłócały się wzajemnie, należy ustawić kanały o numerach",
+    "answerA": " A. 3 i 6",
+    "answerB": " B. 1 i 5",
+    "answerC": " C. 2 i 7",
+    "answerD": " D. 5 i 7"
+  },
+  {
+    "question": "13. Interfejsem wewnętrznym komputera jest",
+    "answerA": " A. IrDA",
+    "answerB": " B. AGP",
+    "answerC": " C. RJ-45",
+    "answerD": " D. DVI"
+  },
+  {
+    "question": "14. Wymianę uszkodzonych kondensatorów karty graficznej umożliwi",
+    "answerA": " A. wkrętak krzyżowy i opaska zaciskowa",
+    "answerB": " B. żywica epoksydowa",
+    "answerC": " C. lutownica z cyną i kalafonią",
+    "answerD": " D. klej cyjanoakrylowy"
+  },
+  {
+    "question": "15. Który z wymienionych elementów stanowi część mechanizmu drukarki igłowej?",
+    "answerA": " A. Lustro",
+    "answerB": " B. Soczewka",
+    "answerC": " C. Filtr ozonowy",
+    "answerD": " D. Traktor"
+  },
+  {
+    "question": "16. Dostarczanie nieprawidłowych napięć do płyty głównej może prowadzić do",
+    "answerA": " A. uruchomienia się jednostki centralnej z kolorowymi pasami i kreskami na ekranie",
+    "answerB": " B. braku możliwości instalacji oprogramowania",
+    "answerC": " C. puchnięcia kondensatorów, zawieszania się jednostki centralnej oraz niespodziewanych restartów",
+    "answerD": " D. wystąpienia błędów pamięci RAM"
+  },
+  {
+    "question": "17. W jakim systemie liczbowym są zapisane zakresy We/Wy przedstawione na rysunku?",
+    "answerA": " A. Dziesiętnym",
+    "answerB": " B. Binarnym",
+    "answerC": " C. Ósemkowym ",
+    "answerD": " D. Szesnastkowym"
+  },
+  {
+    "question": "18. Dysk SSD to urządzenie wykorzystujące",
+    "answerA": " A. pamięć optyczną",
+    "answerB": " B. pamięć bębnową",
+    "answerC": " C. pamięć ferromagnetyczną",
+    "answerD": " D. pamięć półprzewodnikową flash"
+  },
+  {
+    "question": "19. Jeśli użytkownik wybierze pozycję wskazaną strzałką, będzie mógł zainstalować aktualizacje",
+    "answerA": " A. dotyczące luk w zabezpieczeniach o priorytecie krytycznym",
+    "answerB": " B. powodujące uaktualnienie Windows 8.1 do systemu Windows 10",
+    "answerC": " C. dotyczące sterowników lub nowego oprogramowania firmy Microsoft",
+    "answerD": " D. usuwające usterkę krytyczną, niezwiązaną z zabezpieczeniami"
+  },
+  {
+    "question": "20. Programem, który dostarcza najwięcej informacji diagnostycznych o procesorze CPU, jest",
+    "answerA": " A. GPU-Z",
+    "answerB": " B. HD Tune",
+    "answerC": " C. Memtest86+",
+    "answerD": " D. HWiNFO"
+  },
+  {
+    "question": "21. Które urządzenie sieciowe działa w warstwie fizycznej modelu ISO/OSI, przesyłając sygnał z jednego portu na wszystkie pozostałe porty?",
+    "answerA": " A. Modem",
+    "answerB": " B. Przełącznik",
+    "answerC": " C. Karta sieciowa",
+    "answerD": " D. Koncentrator"
+  },
+  {
+    "question": "22. W której fizycznej topologii sieci komputerowej każdy węzeł sieci ma fizyczne połączenie z każdym innym węzłem sieci?",
+    "answerA": " A. Rozszerzonej gwiazdy",
+    "answerB": " B. Częściowej siatki",
+    "answerC": " C. Podwójnego pierścienia",
+    "answerD": " D. Pełnej siatki"
+  },
+  {
+    "question": "23. Który adres podsieci jest prawidłowy po pożyczeniu 4 bitów z części hosta z adresu klasowego 192.168.1.0?",
+    "answerA": " A. 192.168.1.44/28",
+    "answerB": " B. 192.168.1.48/28",
+    "answerC": " C. 192.168.1.80/27",
+    "answerD": " D. 192.168.1.88/27"
+  },
+  {
+    "question": "24. Wskaż koszt brutto wykonanych przez serwisanta usług, jeśli do rachunku doliczony jest również koszt dojazdu w wysokości 55,00 zł netto.",
+    "answerA": " A. 196,80 zł",
+    "answerB": " B. 215,00 zł",
+    "answerC": " C. 160,00 zł",
+    "answerD": " D. 264,45 zł"
+  },
+  {
+    "question": "25. Zgodnie z zamieszczonym fragmentem testu w komputerze jest zainstalowana",
+    "answerA": " A. pamięć fizyczna 0,70 GB i plik wymiany 1,22 GB ",
+    "answerB": " B. pamięć fizyczna 0,50 GB i plik wymiany 1,00 GB ",
+    "answerC": " C. pamięć fizyczna 0,49 GB i plik wymiany 1,22 GB ",
+    "answerD": " D. pamięć fizyczna 0,49 GB i plik wymiany 1,20 GB "
+  },
+  {
+    "question": "26. Przekazywanie żetonu (ang. token), występuje w sieci o strukturze fizycznej",
+    "answerA": " A. siatki",
+    "answerB": " B. pierścienia",
+    "answerC": " C. magistrali",
+    "answerD": " D. gwiazdy"
+  },
+  {
+    "question": "27. Program typu firewall nie chroni przed",
+    "answerA": " A. Wirusami rozprzestrzeniającymi się pocztą e-mail",
+    "answerB": " B. Atakami generującymi wzmożony ruch w sieci",
+    "answerC": " C. Uzyskaniem dostępu do komputera przez hakerów",
+    "answerD": " D. Szpiegowaniem i wykradaniem poufnych danych użytkownika"
+  },
+  {
+    "question": "28. Aby uporządkować pliki na dysku w celu przyspieszenia pracy systemu, należy:",
+    "answerA": " A. usunąć pliki tymczasowe",
+    "answerB": " B. odinstalować nieużywane programy",
+    "answerC": " C. wykonać defragmentację",
+    "answerD": " D. przeskanować dysk programem antywirusowym"
+  },
+  {
+    "question": "29. Do utworzenia partycji w systemie Windows można użyć przystawki",
+    "answerA": " A. diskmgmt.msc",
+    "answerB": " B. devmgmt.msc",
+    "answerC": " C. dfsgui.msc",
+    "answerD": " D. dsa.msc"
+  },
+  {
+    "question": "30. Które stwierdzenie NIE dotyczy pamięci typu cache L1?",
+    "answerA": " A. Szybkość jej pracy jest równa częstotliwości pracy procesora",
+    "answerB": " B. Jest zlokalizowana we wnętrzu procesora",
+    "answerC": " C. Ma dłuższy czas dostępu niż pamięć RAM",
+    "answerD": " D. Jest pamięcią typu SRAM"
+  },
+  {
+    "question": "31. Postcardware to rodzaj",
+    "answerA": " A. wirusa komputerowego",
+    "answerB": " B. karty sieciowej",
+    "answerC": " C. usługi poczty elektronicznej",
+    "answerD": " D. licencji oprogramowania"
+  },
+  {
+    "question": "32. Przedstawiony komunikat jest wynikiem działania polecenia",
+    "answerA": " A. path C:Windows",
+    "answerB": " B. icacls C:Windows",
+    "answerC": " C. attrib C:Windows",
+    "answerD": " D. subst C:Windows"
+  },
+  {
+    "question": "33. Po wykonaniu eksportu klucza HKCR zostanie zapisana kopia rejestru, zawierająca informacje dotyczące konfiguracji",
+    "answerA": " A. sprzętowej komputera.",
+    "answerB": " B. kont użytkowników.",
+    "answerC": " C. pulpitu zalogowanego użytkownika.",
+    "answerD": " D. powiązań między typami plików a aplikacjami. "
+  },
+  {
+    "question": "34. Katalog Nakładów Rzeczowych przy projektowaniu sieci jest stosowany do",
+    "answerA": " A. rysowania schematów sieci.",
+    "answerB": " B. opracowywania powykonawczych pomiarów.",
+    "answerC": " C. kosztorysowania robót.",
+    "answerD": " D. zdefiniowania wytycznych dla wykonawcy."
+  },
+  {
+    "question": "35. Jak nazywa sie zbiór usług internetowych dla systemów rodziny Microsoft Windows, który umożliwia pełnienie roli serwera FTP oraz serwera WWW?",
+    "answerA": " A. WINS",
+    "answerB": " B. IIS",
+    "answerC": " C. PROFTPD",
+    "answerD": " D. APACHE"
+  },
+  {
+    "question": "36. Jaką nazwę nosi niepożądane oprogramowanie komputerowe instalowane najczęściej bez wiedzy użytkownika?",
+    "answerA": " A. Freeware",
+    "answerB": " B. Shareware",
+    "answerC": " C. Malware",
+    "answerD": " D. Slackware"
+  },
+  {
+    "question": "37. W systemie Windows, wykorzystując wiersz poleceń do zmiany partycji FAT na partycję NTFS bez utraty zawartych na niej danych, należy użyć polecenia",
+    "answerA": " A. recover",
+    "answerB": " B. format",
+    "answerC": " C. change",
+    "answerD": " D. convert"
+  },
+  {
+    "question": "38. W dokumentacji systemu operacyjnego Windows XP opisane są pliki z rozszerzeniem .dll. Rozszerzenie to dotyczy pliku",
+    "answerA": " A. uruchamialnego",
+    "answerB": " B. dziennika zdarzeń",
+    "answerC": " C. biblioteki",
+    "answerD": " D. inicjalizacyjnego"
+  },
+  {
+    "question": "39. Do realizacji iloczynu logicznego z negacją należy użyć funktora",
+    "answerA": " A. AND",
+    "answerB": " B. NAND",
+    "answerC": " C. NOT",
+    "answerD": " D. EX-OR"
+  },
+  {
+    "question": "40. Karta dźwiękowa umożliwiająca odtworzenie pliku zapisanego w formacie MP3 powinna być wyposażona w układ",
+    "answerA": " A. DAC",
+    "answerB": " B. ALU",
+    "answerC": " C. RTC",
+    "answerD": " D. GPU"
+  }
+]
